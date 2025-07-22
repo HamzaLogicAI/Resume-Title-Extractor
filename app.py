@@ -58,7 +58,6 @@ with st.container():
     st.markdown('<p class="subtitle">Upload a resume PDF to extract the job title using advanced NLP.</p>', unsafe_allow_html=True)
     
     # Lottie animation
-    load_lottie_animation()
     
     # File uploader with styled box
     with st.container():
